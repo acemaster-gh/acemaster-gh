@@ -118,7 +118,7 @@ gocode            ████████████████████  
 # distros tried: Fedora, Debian, Kali
 # setup: Terminator + VS Code + Obsidian
 # workflow: gocode → code → git push → netlify
-# current mission: freelance-ready in 2025
+
 ```
 
 ---
